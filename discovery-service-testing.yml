@@ -1,0 +1,7 @@
+# Profile testing
+spring:
+  config:
+    activate:
+      on-profile:
+      - testing
+      

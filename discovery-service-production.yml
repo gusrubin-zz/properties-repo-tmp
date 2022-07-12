@@ -1,0 +1,7 @@
+# Profile production
+spring:
+  config:
+    activate:
+      on-profile:
+      - production
+      
