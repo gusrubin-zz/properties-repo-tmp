@@ -5,3 +5,6 @@ spring:
       on-profile:
       - production
       
+server:
+  port: 8763
+      
